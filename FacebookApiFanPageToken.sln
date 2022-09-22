@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookApiFanPageToken", "FacebookApiFanPageToken\FacebookApiFanPageToken.csproj", "{A5710098-FCC5-4FEB-8B03-8EEA5EEA0ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5710098-FCC5-4FEB-8B03-8EEA5EEA0ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5710098-FCC5-4FEB-8B03-8EEA5EEA0ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5710098-FCC5-4FEB-8B03-8EEA5EEA0ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5710098-FCC5-4FEB-8B03-8EEA5EEA0ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2BBC8DC-3CC8-46F3-A98E-0EE2B2B29CA3}
+	EndGlobalSection
+EndGlobal

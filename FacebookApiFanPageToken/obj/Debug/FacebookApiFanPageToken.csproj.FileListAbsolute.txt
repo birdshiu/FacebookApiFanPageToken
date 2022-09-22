@@ -1,0 +1,10 @@
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\bin\Debug\FacebookApiFanPageToken.exe.config
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\bin\Debug\FacebookApiFanPageToken.exe
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\bin\Debug\FacebookApiFanPageToken.pdb
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\bin\Debug\Newtonsoft.Json.dll
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\bin\Debug\Newtonsoft.Json.xml
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\obj\Debug\FacebookApiFanPageToken.csproj.AssemblyReference.cache
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\obj\Debug\FacebookApiFanPageToken.csproj.CoreCompileInputs.cache
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\obj\Debug\FacebookApiFanPageToken.csproj.CopyComplete
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\obj\Debug\FacebookApiFanPageToken.exe
+C:\Users\birdshiu\source\repos\FacebookApiFanPageToken\FacebookApiFanPageToken\obj\Debug\FacebookApiFanPageToken.pdb
